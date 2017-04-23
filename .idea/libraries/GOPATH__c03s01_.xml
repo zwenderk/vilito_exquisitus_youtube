@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;c03s01&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../gopl.io" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../sdl" />
+      <root url="file://$PROJECT_DIR$/../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../paraVisualStudio" />
+      <root url="file://$PROJECT_DIR$/../../res" />
+      <root url="file://$PROJECT_DIR$/../../honnef.co" />
+      <root url="file://$PROJECT_DIR$/../../HolaMundo2" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../HolaMundo" />
+      <root url="file://$PROJECT_DIR$/../../Proyecto00 Gogland" />
+      <root url="file://$PROJECT_DIR$/../../_resources" />
+      <root url="file://$PROJECT_DIR$/../../azul3d.org" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../fungo" />
+      <root url="file://$PROJECT_DIR$/../../mingwbug" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../gopl.io" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../sdl" />
+      <root url="file://$PROJECT_DIR$/../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../paraVisualStudio" />
+      <root url="file://$PROJECT_DIR$/../../res" />
+      <root url="file://$PROJECT_DIR$/../../honnef.co" />
+      <root url="file://$PROJECT_DIR$/../../HolaMundo2" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../HolaMundo" />
+      <root url="file://$PROJECT_DIR$/../../Proyecto00 Gogland" />
+      <root url="file://$PROJECT_DIR$/../../_resources" />
+      <root url="file://$PROJECT_DIR$/../../azul3d.org" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../fungo" />
+      <root url="file://$PROJECT_DIR$/../../mingwbug" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
